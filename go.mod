@@ -1,4 +1,4 @@
-module github.com/binbin-li/monorepo/test1
+module github.com/binbin-li/monorepo
 
 go 1.23.4
 
